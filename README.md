@@ -1,6 +1,6 @@
 # Angular Jornada Milhas
 
-Este projeto é o resultado da implementação de uma aplicação Angular desenvolvida como parte do curso **"Angular: Componentização e Design com Angular Material"** da [Alura](https://www.alura.com.br/). O objetivo foi construir a **front page** de uma aplicação baseada no design disponibilizado em [Figma](https://www.figma.com/design/PnbYDKjKLouCOAwY4GRxYv/Jornada-Milhas?node-id=4-6408&t=LKy2ZXCvkzArBHs5-0).
+Este projeto é o resultado da implementação de uma aplicação Angular desenvolvida como parte do curso **"Angular: Componentização e Design com Angular Material"** da [Alura](https://www.alura.com.br/). O objetivo foi construir a **front page** de uma aplicação baseada no design disponibilizado no [Figma](https://www.figma.com/design/PnbYDKjKLouCOAwY4GRxYv/Jornada-Milhas?node-id=4-6408&t=LKy2ZXCvkzArBHs5-0).
 
 ## 🖥️ Funcionalidades desenvolvidas
 
